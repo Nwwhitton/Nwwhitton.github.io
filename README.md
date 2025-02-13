@@ -1,4 +1,4 @@
-# nicholaswhitton.github.io
+# Nwwhitton.github.io
 
 
 Nicholas Whitton - nwwhitton@my.waketech.edu<br>
